@@ -12,6 +12,7 @@ To mitigate this risk, a proper methodology is needed. This abstract will help y
 implement this methodology in your team, will tell you, how to do it, and what are the benefits.
 
 ## Should I try it?
+
 Before you will introduce a new methodology to a team, please keep an eye on your developers for a few days to check if their
 behaviour reveals signs of a need for Zero YOLO deployment. Please use the following matrix that is describing behaviours and 
 scores them. When a total count of points is over 6, you can consider introducing it. Any score above 9 means that you will
@@ -28,6 +29,7 @@ YOLO word is being used by the team before commit | Sneak near to the developers
 `git push -f` is used | Buy a cake and send an email that there is a free cake in the kitchen. Lured developers should leave their computers unattended. Look for those, that were not locked, quickly open terminal and browse command history for `git push -f` | 5
 
 ## I got over 9 points! Tell me, how to live?!
+
 First of all, keep calm. Your developers might not even be aware of the problem. Discuss and implement the following steps with your team:
 * expose health check of the application
 * setup application monitoring
@@ -44,6 +46,7 @@ developers are spoiled like a brat and do not like anything that will require ad
 saying, that their value on the market will increase after implementing this methodology, and they can put it in their resume.
 
 ## Outcome
+
 Through the tears and blood, you will gain confidence in deploying the application, possibility to quickly revert changes, 
 users will become unaware of executing deployment and you will gain developers, that can brag themselves around with new
 cool feature.
