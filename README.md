@@ -10,7 +10,7 @@ can benefit from them. We care about developers, as we also are them, so we deci
 
 ## List of methodologies
 
-* ...
+* [Zero YOLO Deployment](methodologies/zero-yolo-deployment/README.md) by @bslota
 
 ## Contributing
 
