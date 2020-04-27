@@ -8,13 +8,16 @@ the bigger benefit can be achieved. Ricochets are not very accurate, therefore t
 used, but when there are multiple targets, the probability of hitting increases.
 
 Let's understand the process of triggering ricochets:
+
 ![Ricochet Programming overview](images/1-ricochet-overview.png)
+
 Assuming, that you are refining work pretty well, and create tasks for each user story. According to the timeline, developer 
 started the work from `Task A`. Once finished, `Task C` was started, and then `Task B`. During work on each of the tasks, 
 small portions of code were added, that developer is unaware they might reflect other parts of code. Those ricochets, when
 code is developed with high quality, might hit other tasks, crushing them and reduces their complexity.
 
 ![Scaled Ricochet Programming](images/2-scaled-richocet.png)
+
 Now, using scale-up and multiplying the amount of user stories, tasks, and developers, we can see how ricochets are multiplying,
 helping to crush more and more tasks!
 
