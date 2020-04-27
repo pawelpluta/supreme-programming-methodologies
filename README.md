@@ -1,6 +1,6 @@
-# Extreme Programming Methodologies
+# Supreme Programming Methodologies
 
-One day, some developers started to write names of new extreme programming methodologies that they identified. By strong 
+One day, some developers started to write names of new programming methodologies that they identified. By strong 
 suggestion of another team member - T.G. - we decided to bring them to broader audience, so also other, struggling teams 
 can benefit from them. We care about developers, as we also are them, so we decided to describe those fascinating methodologies.
 
@@ -10,8 +10,8 @@ can benefit from them. We care about developers, as we also are them, so we deci
 
 ## List of methodologies
 
-* [Zero YOLO Deployment](methodologies/zero-yolo-deployment/README.md) by @bslota
-* [Ricochet Programming](methodologies/ricochet-programming/README.md) by @pawelpluta
+* [Zero YOLO Deployment](methodologies/zero-yolo-deployment/README.md) by [@bslota](https://github.com/bslota)
+* [Ricochet Programming](methodologies/ricochet-programming/README.md) by [@pawelpluta](https://github.com/pawelpluta)
 * ...
 
 ## Contributing
