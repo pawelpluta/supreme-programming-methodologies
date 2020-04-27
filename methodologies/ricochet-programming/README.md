@@ -11,7 +11,7 @@ Let's understand the process of triggering ricochets:
 ![Ricochet Programming overview](images/1-ricochet-overview.png)
 Assuming, that you are refining work pretty well, and create tasks for each user story. According to the timeline, developer 
 started the work from `Task A`. Once finished, `Task C` was started, and then `Task B`. During work on each of the tasks, 
-small pieces of code were added, that developer is unaware they might reflect other parts of code. Those ricochets, when
+small portions of code were added, that developer is unaware they might reflect other parts of code. Those ricochets, when
 code is developed with high quality, might hit other tasks, crushing them and reduces their complexity.
 
 ![Scaled Ricochet Programming](images/2-scaled-richocet.png)
@@ -30,7 +30,7 @@ aim to take those steps and try to trigger ricochets.
 
 ## How to introduce
 
-The best in this methodology is that you can introduce it by yourself, not even telling anyone from it. However, consider
+The best in this methodology is that you can introduce it by yourself, not even telling anyone about it. However, consider
 convincing other team members, so you will have a higher amount of ricochets and benefit more.
 
 * refine your stories properly. Crush them to the smallest tasks possible
