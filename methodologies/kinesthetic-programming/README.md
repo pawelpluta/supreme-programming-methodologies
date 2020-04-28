@@ -16,23 +16,27 @@ Kinesthetic Programming is based on a few fundamentals:
 * access to source codes of classes and libraries that you are using
 * IDE with nice code assistant
 
-You maybe wonder, what are the 'secret' techniques of kinesthetic programming. Lets take a look at few 
-examples and describe some behaviours.
-Did you ever noticed, when running your tests, some weird exception in the logs? Or did you ever tried 
-to introduce some new fancy technology, with cool name - but somehow it did not jump started right away? 
-I know you did. Everyone of us know this feeling. That are the situations where Kinesthetic comes into play. 
-One of the techniques is CAR - Change and Run. It is all about 'feeling' the code. You just try to change some 
-pieces of code/ configuration - that you think will fix it - and give it a try. If not succeeded, introduce another 
-change and repeat the process until success. By following CAR technique, we nee to focus on the practice and we try to 
-skip documentation reading part (which is often incomplete/ or just really boring).
-Another sole part of the techniques is the way how we look the answers in the internet. Everyone from time to time (Ok, mostly) 
-looks for solution by simply googling it. Thats perfectly fine, but how you use the articles/documentation is not so obvious. 
-You might want to read them whole - usually few pages of reading - but let's be hones, who writes that, it's usually rubbish. 
-Whole clue of the reading is usually somewhere in the bottom - yes - The Snippets! What kinesthetic encourages you to do is to 
-go straight away to the meritum, just copy The Snippets and give it a try. That will probably save you a lot of time. It usually 
-works, but sometimes the snippets does not fit right into our projects - you might ask what then? It is perfectly fine to open another 
-article and give it a try - follow kinesthetic approach! If you feel confident, you can even try to combine snippets from different 
-articles - but that will require some experience. You you are adept, better not to overengineer it and stick to one.
+You maybe wonder, what are the 'secret' techniques of kinesthetic programming. 
+Let's take a look at a few examples and describe some behaviours. 
+
+Did you ever notice, when running your tests, some weird exception in the logs? 
+Or did you ever tried to introduce some new fancy technology, with a cool name - 
+but somehow it did not jump started right away? I know you did. Every one of us knows this 
+feeling. That's are the situations where Kinesthetic comes into play. One of the techniques is 
+CAR - Change and Run. It is all about 'feeling' the code. You just try to change some pieces of 
+code/ configuration - that you think will fix it - and give it a try. If not succeeded, introduce 
+another change and repeat the process until success. By following CAR technique, we need to focus on 
+the practice and we try to skip documentation reading part (which is often incomplete/ or just really boring). 
+
+Another sole part of the techniques is the way how we look at the answers on the internet. Everyone from time 
+to time (Ok, mostly) looks for a solution by simply googling it. That's perfectly fine, but how you use the 
+articles/documentation is not so obvious. You might want to read them whole - usually few pages of reading - 
+but let's be honest, who writes that, it's usually rubbish. The whole clue of the reading is usually somewhere in 
+the bottom - yes - The Snippets! What kinesthetic encourages you to do is to go straight away to the merits, just 
+copy The Snippets and give it a try. That will probably save you a lot of time. It usually works, but sometimes the 
+snippets do not fit right into our projects - you might ask what then? It is perfectly fine to open another article 
+and give it a try - follow the kinesthetic approach! If you feel confident, you can even try to combine snippets from 
+different articles - but that will require some experience. You are adept, better not to overengineer it and stick to one.
 
 Hope you are familiar with Java language, as an example for Kinesthetic Programming will be provided in this language.
 Actually, you should be able to understand the sample as long as you know any Object-Oriented language and Fluent Interface.
