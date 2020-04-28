@@ -16,6 +16,8 @@ Kinesthetic Programming is based on a few fundamentals:
 * access to source codes of classes and libraries that you are using
 * IDE with nice code assistant
 
+#### It is all about the practice
+
 You maybe wonder, what are the 'secret' techniques of kinesthetic programming. 
 Let's take a look at a few examples and describe some behaviours. 
 
@@ -37,6 +39,8 @@ copy The Snippets and give it a try. That will probably save you a lot of time. 
 snippets do not fit right into our projects - you might ask what then? It is perfectly fine to open another article 
 and give it a try - follow the kinesthetic approach! If you feel confident, you can even try to combine snippets from 
 different articles - but that will require some experience. You are adept, better not to overengineer it and stick to one.
+
+#### Live example
 
 Hope you are familiar with Java language, as an example for Kinesthetic Programming will be provided in this language.
 Actually, you should be able to understand the sample as long as you know any Object-Oriented language and Fluent Interface.

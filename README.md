@@ -12,6 +12,7 @@ can benefit from them. We care about developers, as we also are them, so we deci
 
 * [Zero YOLO Deployment](methodologies/zero-yolo-deployment/README.md) by [@bslota](https://github.com/bslota)
 * [Ricochet Programming](methodologies/ricochet-programming/README.md) by [@pawelpluta](https://github.com/pawelpluta)
+* [Copy-Paste Driven Development](methodologies/copy-pasta-driven-development/README.md) by [@apokralipsa](https://github.com/apokralipsa)
 * [Kinesthetic Programming](methodologies/kinesthetic-programming/README.md) by [@bandrzejewski](https://github.com/bandrzejewski)
 * ...
 
