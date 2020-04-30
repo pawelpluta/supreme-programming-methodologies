@@ -4,9 +4,7 @@ One day, some developers started to write names of new programming methodologies
 suggestion of another team member - T.G. - we decided to bring them to broader audience, so also other, struggling teams 
 can benefit from them. We care about developers, as we also are them, so we decided to describe those fascinating methodologies.
 
-> Writing means sharing. It's part of the human condition to want to share things - thoughts, ideas, opinions.
->
-> ~ Paulo Coelho
+We believe that you already might use them but do not know proper approach. Review you knowlegde, and bring those methodologies to live.
 
 ## List of methodologies
 
