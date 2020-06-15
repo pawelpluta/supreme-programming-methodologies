@@ -18,6 +18,7 @@ We believe that you already might use them, but do not know the proper approach.
 * [Ricochet Programming](methodologies/ricochet-programming/README.md) by [@pawelpluta](https://github.com/pawelpluta)
 * [Copy-Paste Driven Development](methodologies/copy-pasta-driven-development/README.md) by [@apokralipsa](https://github.com/apokralipsa)
 * [Kinesthetic Programming](methodologies/kinesthetic-programming/README.md) by [@bandrzejewski](https://github.com/bandrzejewski)
+* [Schema Driven Integration](methodologies/schema-driven-integration/README.md) by [@bandrzejewski](https://github.com/bandrzejewski) & [@pawelpluta](https://github.com/pawelpluta)
 * ...
 
 ## Contributing
