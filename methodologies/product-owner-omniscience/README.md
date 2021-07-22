@@ -2,7 +2,15 @@
 
 by [@pawelpluta](https://github.com/pawelpluta)
 
-Developers are stressed out. Technology-related decisions made every minute does not leave them unaffected.
+Delays in projects are usually unavoidable. Every delay is a money loss that will be painful for your company. 
+Depending on the project, it might be counted in thousands, or billions of dollars. Take a look at Berlin Brandenburg Airport.
+Due to delays its final cost was 8.2 billions dollars, exceeded the budged over twice. This value is not taking into account the loss from revenues over the years the airport was closed!
+
+### Delays in IT projects
+
+Very similar situation, maybe at little different scale, might happen in your company. 
+The core problem of delays in IT projects are developers, or rather the problems, that developers have.
+They are stressed out. Technology-related decisions made every minute does not leave them unaffected.
 On top of that, new approaches that require their contact with other human beings or talk to business people are getting more and more common.
 All these situations lead to conflicts inside a team, and a well-known thing is that conflicts are disturbing the delivery process.
 This is the place, where the unique but balanced set of skills can distinguish a good Product Owner.
@@ -14,7 +22,7 @@ A POO is a thing directly between the Product Owner and the team of developers.
 Your role, as a Product Owner, is to bring fresh air.
 Fortunately, POO is low-hanging fruit.
 
-### How does it work
+## How does it work
 
 While doing a POO, you must bring relief to the team members by giving them answers to the questions they didn't even ask yet.
 That's right! You need to think like a developer, act as a developer, smell like a developer, even if you have zero experience in it.
